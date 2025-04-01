@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697443357296",
+    "project_id": "hlrc-projeto",
+    "storage_bucket": "hlrc-projeto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697443357296:android:d5fec8d987e45f19bb5ab5",
+        "android_client_info": {
+          "package_name": "com.example.educacenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGN8Wl0zFQVF9SvQv0NK59gQl20rzNCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
